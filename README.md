@@ -1,20 +1,12 @@
 **CS 486-01:**
 
-Course Meeting Time(s) / Seat Time
-
 Class 11:45 am – 1:30 pm MW
 
 Lo Schiavo G12 Aug 23, 2017 - Dec 13, 2017
 
-Number of Units 4
-
 Instructor: Paul A. Lambert Office Hours: 2:00-3:00 MW
 
-Office: 403A or by appointment
-
 Email: plambert\@usfca.edu
-
-Phone: +1-650-787-9141
 
 **Prerequisites:**
 
