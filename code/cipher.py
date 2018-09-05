@@ -297,7 +297,7 @@ class Ngraph(Distribution):
     def analyze(self, text):
         n = self.n
         self.result = {} # results are stored as a dictionary
-        for i in range( len(text) - n - 1 ):
+        for i in range( len(text) - n + 1 ):
             nary = text[ i:i+n ]
             if nary in self.result:
                 self.result[nary] += 1
