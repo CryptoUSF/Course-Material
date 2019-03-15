@@ -70,6 +70,3 @@ def cli(hash_name, encoding, output_file, input_file):
 
 if __name__ == '__main__':
     cli()
-
-    
-
